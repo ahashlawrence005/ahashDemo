@@ -9,6 +9,7 @@ public class Day2 {
 	public void loan()
 	{
 		System.out.println("good");
+		System.out.println("better");
 	}
 	@BeforeTest
 	public void prerequisites()
