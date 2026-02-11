@@ -12,6 +12,12 @@ public class Day4 {
 		System.out.println("webLoginHome");
 		System.out.println(uname);
 	}
+	public void webLoginHomeLoans(String uname)
+	{
+		//selenium
+		System.out.println("webLoginHomes");
+		System.out.println(uname);
+	}
 	
 	@Test(groups= {"Smoke"})
 	public void mobileLoginHomeLoan()
